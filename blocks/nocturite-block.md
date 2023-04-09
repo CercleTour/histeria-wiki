@@ -20,4 +20,4 @@ Les block de nocturite sont des block faits à partir des [cristaux en nocturite
 -=-
 
 ## Utilité
-Vous pouvez utiliser ces blocks pour faire de la décoration dans vos bases, mais surtout crafter des [compresses en nocturite](https://histeria.fr/wiki/items/nocturite-compresse) pour vous approcher des crafts importants à base de nocturite.
+Vous pouvez utiliser ces blocks pour faire de la décoration dans vos bases, mais surtout pour crafter des [compresses en nocturite](https://histeria.fr/wiki/items/nocturite-compresse) qui vous permettront plus tard de crafter l'armure en nocturite.
